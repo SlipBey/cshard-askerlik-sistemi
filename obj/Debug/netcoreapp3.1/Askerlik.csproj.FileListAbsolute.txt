@@ -1,0 +1,14 @@
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\bin\Debug\netcoreapp3.1\Askerlik.exe
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\bin\Debug\netcoreapp3.1\Askerlik.deps.json
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\bin\Debug\netcoreapp3.1\Askerlik.runtimeconfig.json
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\bin\Debug\netcoreapp3.1\Askerlik.runtimeconfig.dev.json
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\bin\Debug\netcoreapp3.1\Askerlik.dll
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\bin\Debug\netcoreapp3.1\Askerlik.pdb
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\obj\Debug\netcoreapp3.1\Askerlik.csproj.AssemblyReference.cache
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\obj\Debug\netcoreapp3.1\Askerlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\obj\Debug\netcoreapp3.1\Askerlik.AssemblyInfoInputs.cache
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\obj\Debug\netcoreapp3.1\Askerlik.AssemblyInfo.cs
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\obj\Debug\netcoreapp3.1\Askerlik.csproj.CoreCompileInputs.cache
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\obj\Debug\netcoreapp3.1\Askerlik.dll
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\obj\Debug\netcoreapp3.1\Askerlik.pdb
+C:\Users\Gunaydın\Desktop\C# DERSLERİM\Askerlik\Askerlik\obj\Debug\netcoreapp3.1\Askerlik.genruntimeconfig.cache
